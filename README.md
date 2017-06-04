@@ -1,1 +1,1 @@
-# mvc-blog
+# Aplikasi Blog Sistem yang belum selesai.
